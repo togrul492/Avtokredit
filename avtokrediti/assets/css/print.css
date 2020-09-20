@@ -1,0 +1,94 @@
+.logo {
+	margin-bottom: 20px;
+	text-indent: 0;
+	width: auto;
+	height: auto;
+	background-image: none !important;
+	text-decoration: none;
+	font-size: 20px
+}
+
+a {
+	text-decoration: none
+}
+
+.container .sidebar,
+.container .content {
+	min-height: 0
+}
+
+.sidebar {
+	width: auto;
+	border-top: 0;
+	float: none
+}
+
+.title_show {
+	padding-left: 0;
+	font-size: 24px;
+	line-height: 30px;
+	background-image: none;
+	border-bottom: 0
+}
+
+.content {
+	border-top: 0;
+	margin-left: 0
+}
+
+.product-id {
+	line-height: 30px
+}
+
+.data-title {
+	font-size: 18px
+}
+
+.container {
+	width: auto
+}
+
+.product {
+	width: 50%;
+	padding: 0
+}
+
+.auto-images {
+	width: 50%;
+	overflow: hidden;
+	margin-left: -20px
+}
+
+.images-link {
+	border: 0
+}
+
+.auto-image {
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 20px;
+	margin-left: 20px
+}
+
+#eyeDiv {
+	display: none !important
+}
+
+.content-top,
+.sidebar .block,
+.bnrs,
+.bnrs-right,
+.bnr_single_simple,
+.bump,
+.vip,
+.internal-banner,
+.bigger,
+.auto-image_facebook,
+.simple-block_facebook,
+.simple-block_addthis,
+.related,
+.footer-container,
+.leasing,
+.insurance {
+	display: none
+}

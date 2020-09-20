@@ -1,0 +1,3555 @@
+@media (min-width: 1440px) {
+    .header-bar-i, .header-bar-social-media {
+        font-size: 14px;
+        line-height: 45px;
+    }
+    .header-main-bar-right {
+        height: 175px;
+    }
+    .left-content-site-link {
+        font-size: 54px;
+    }
+    .header .nav-i {
+        font-size: 20px;
+    }
+    .homepage-filter input:not([type='checkbox']):not([type='radio']), .homepage-filter select,
+    .short-search input[type="text"], .short-search select, .short-search button, .short-search label,
+    .short-search .ad-count, .short-search label.boolean, .short-search .btn-search,
+    .short-search .btn-full-search {
+        height: 45px!important;
+        line-height: 45px!important;
+    }
+    .short-search label, .short-search input[type="text"], .short-search select,
+    .short-search button, .short-search .q_region select, .short-search .ad-count {
+        font-size: 16px!important;
+    }
+}
+@media (min-width: 1575px) {
+    .header-main-bar-right {
+        height: 200px!important;
+    }
+    .left-content-site-link {
+        font-size: 60px!important;
+    }
+    .left-content-site-info {
+        font-size: 24px!important;
+    }
+    .header .nav {
+        height: 65px!important;
+    }
+    .header .nav-i {
+        font-size: 22px!important;
+    }
+    .header-bar-i, .header-bar-social-media {
+        font-size: 16px!important;
+        line-height: 48px!important;
+    }
+    .products-img {
+        height: 230px!important;
+    }
+    .product-price {
+        line-height: 40px;
+        padding: 0 20px;
+        font-size: 18px;
+    }
+    .products-name {
+        font-size: 21px;
+    }
+    .products-attributes {
+        font-size: 14px;
+    }
+    .products-bottom {
+        font-size: 13px;
+    }
+    .products-description {
+        max-height: 140px;
+    }
+}
+@media (min-width: 1701px) {
+    .header-main-bar-right {
+        height: 200px!important;
+    }
+    .left-content-site-link {
+        font-size: 70px!important;
+    }
+    .left-content-site-info {
+        font-size: 30px!important;
+    }
+    .header-main-bar-right {
+        height: 230px!important;
+    }
+    .shops-i {
+        height: 250px!important;
+    }
+    .shops-i--title {
+        font-size: 24px!important;
+    }
+    .shops-i--description {
+        font-size: 19px!important;
+        margin-top: 20px!important;
+        line-height: 1.4!important;
+    }
+    .shops-i--contact-content i {
+        font-size: 30px!important;
+    }
+    .shops-i--contact {
+        font-size: 18px!important;
+    }
+    .shops-i--ads-count {
+        font-size: 16px!important;
+    }
+    .homepage-filter input:not([type='checkbox']):not([type='radio']), .homepage-filter select,
+    .short-search input[type="text"], .short-search select, .short-search button, .short-search label,
+    .short-search .ad-count, .short-search label.boolean, .short-search .btn-search,
+    .short-search .btn-full-search {
+        height: 55px!important;
+        line-height: 55px!important;
+    }
+    .short-search label, .short-search input[type="text"], .short-search select,
+    .short-search button, .short-search .q_region select, .short-search .ad-count {
+        font-size: 20px!important;
+    }
+    .product-photos {
+        height: 475px;
+    }
+    /*sections title*/
+    .section-title_name {
+        font-size: 30px;
+    }
+    .section-title_more {
+        font-size: 24px;
+    }
+    /*elan page*/
+    .product-name {
+        font-size: 45px;
+    }
+    .product .services-label {
+        font-size: 28px;
+    }
+    .product .services-i {
+        padding: 0 10px 0 60px;
+        line-height: 60px;
+        font-size: 20px;
+    }
+    .product .services-i-price {
+        line-height: 25px;
+        font-size: 14px;
+    }
+    .product .services-i_bump::before {
+        left: 15px;
+        margin-top: -15px;
+    }
+    .product .services-i_vip::before {
+        left: 10px;
+        margin-top: -20px;
+    }
+    .product .services-i_featured::before {
+        left: -5px;
+        margin-top: -35px;
+    }
+    .product-header .product-price {
+        font-size: 45px;
+        padding: 15px 23px;
+    }
+    .product-header .product-price span {
+        margin-bottom: 17px;
+        margin-left: 15px;
+        font-size: 30px;
+    }
+    .product .seller-info .seller-contacts-icon .icon-svg--phone {
+        font-size: 55px;
+    }
+    .seller-contact {
+        margin-left: 10px;
+    }
+    .seller-name p {
+        font-size: 35px;
+    }
+    .seller-phone a {
+        font-size: 25px;
+    }
+    .product-statistics {
+        font-size: 18px;
+    }
+    .product-statistics p {
+        margin-bottom: 0.5rem;
+    }
+    .product-properties label {
+        font-size: 25px;
+    }
+    .product-properties-value {
+        font-size: 20px;
+    }
+    .product-extras-i {
+        font-size: 30px;
+    }
+    .product-text {
+        line-height: 35px;
+        font-size: 28px;
+    }
+    .product-credit-info p, .product-deposit-info p {
+        font-size: 30px;
+    }
+    .auto-credit-section label, .auto-deposit-section label {
+        font-size: 21px!important;
+    }
+    .product-credit-info .auto-credit-section, .product-deposit-info .auto-deposit-section {
+        width: 420px;
+    }
+    .product-credit-info label, .product-deposit-info label {
+        width: 140px!important;
+    }
+    .auto-credit-section, .auto-deposit-section {
+        width: 450px!important;
+    }
+    #auto_credit_process label {
+        width: 140px!important;
+    }
+    #auto_deposit_process label.auto-deposit-firstpay {
+        width: 170px!important;
+    }
+    .auto-credit-section select, .auto-credit-section input[type='number'], .auto-credit-section input[type='text'], .auto-deposit-section select, .auto-deposit-section input[type='number'], .auto-deposit-section input[type='text'] {
+        height: 50px!important;
+        line-height: 50px!important;
+        font-size: 18px;
+    }
+    .product-actions-i {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    /*products*/
+    .products-img {
+        height: 250px!important;
+    }
+    .salon-text, .deposit-text, .taxi-text {
+        font-size: 20px;
+    }
+    .products-info {
+        transform: translate(-28%, 100%) rotate(-45deg);
+    }
+    .product-price {
+        padding: 5px 25px;
+        font-size: 24px;
+    }
+    .credit-item, .barter-item {
+        width: 40px;
+        height: 40px;
+        margin-left: 7px;
+    }
+    .products-description {
+        max-height: 150px;
+    }
+    .products-name {
+        font-size: 27px;
+    }
+    .products-attributes p.products-attributes-i {
+        font-size: 16px;
+    }
+    .products-bottom {
+        font-size: 18px;
+    }
+    .products-paid {
+        right: 15px;
+        bottom: 10px;
+    }
+    .products-paid .vip-img, .products-paid .premium-img {
+        width: 32px;
+        margin-left: 10px;
+    }
+    .products-content::before {
+        height: 370px;
+    }
+    .products-content::after {
+        height: 90px;
+    }
+    /*create-elan page*/
+    .limits--title {
+        font-size: 30px;
+    }
+    .limits--rules {
+        font-size: 20px;
+    }
+    .limits-phone--title {
+        font-size: 20px;
+    }
+    .new-product .limits--phone-number[type='tel'] {
+        width: 300px;
+    }
+    .new-product .limits--phone-number[type='tel'], .new-auto .limits--phone-number[type='tel'] {
+        font-size: 18px;
+    }
+    .limits--phone-error {
+        width: 300px;
+        font-size: 18px;
+    }
+    .limits--button {
+        min-width: 300px;
+        padding: 0 30px;
+        font-size: 20px;
+    }
+    .limits--button span {
+        line-height: 45px;
+    }
+    .form-title, .search-product--title {
+        font-size: 30px;
+    }
+    .new-product--notice, .search-product--notice {
+        line-height: 26px;
+        font-size: 20px;
+    }
+    .new-product label:not(.pond-new-img), .search-product label:not(.pond-new-img) {
+        font-size: 20px;
+    }
+    .new-product input[type='email'], .new-product input[type='number'], .new-product input[type='text'], .new-product input[type='password'], .new-product select, .new-product textarea, .search-product select, .search-product input[type='text'], .reveal-modal input[type='text'], .session-login-form input[type='email'], .session-login-form input[type='number'], .session-login-form input[type='text'], .session-login-form input[type='password'], .session-login-form select, .session-login-form textarea, .user-password-reset input[type='email'], .user-password-reset input[type='number'], .user-password-reset input[type='text'], .user-password-reset input[type='password'], .user-password-reset select, .user-password-reset textarea, .user-password-set input[type='email'], .user-password-set input[type='number'], .user-password-set input[type='text'], .user-password-set input[type='password'], .user-password-set select, input:not([type='checkbox']):not([type='radio']), select, button, textarea.user-password-set textarea {
+        height: 50px;
+        font-size: 18px;
+    }
+    .short-search label.boolean:before {
+        top: 22.5px;
+    }
+    .short-search label.boolean:after {
+        top: 12.5px;
+    }
+    .search-product #q_currency {
+        left: -160px;
+    }
+    .auto_description.field_with_hint label {
+        font-size: 20px;
+    }
+    .new-product textarea, .search-product textarea {
+        height: 120px;
+    }
+    .new-product .hint, .search-product .hint {
+        font-size: 18px;
+    }
+    .new-product .auto_extras .control-label, .search-product .auto_extras .control-label {
+        font-size: 30px;
+    }
+    .pond .control-label {
+        font-size: 30px !important;
+    }
+    .pond-descr {
+        font-size: 18px;
+    }
+    .new-product .photo-rules li, .search-product .photo-rules li, .edit-auto .photo-rules li, .new_search_alert .photo-rules li, .session-login-form .photo-rules li, .user-password-reset .photo-rules li, .user-password-set .photo-rules li {
+        line-height: 30px;
+        font-size: 20px;
+    }
+    .new-product--title {
+        font-size: 30px;
+    }
+    .new-product-alert, .search-product-alert, .edit-auto-alert, .new_search_alert-alert, .session-login-form-alert, .user-password-reset-alert, .user-password-set-alert {
+        font-size: 20px;
+    }
+    .new-product--confirm-rules {
+        font-size: 18px;
+    }
+    .choose-type-i {
+        height: 350px;
+    }
+    .choose-type-i--description-text {
+        font-size: 16px;
+    }
+}
+@media (max-width: 1300px) {
+    /* screen:1300px responsive and then less */
+    /*header*/
+    .header-bar-i, .header-bar-social-media {
+        font-size: 13px;
+    }
+    .sm-icon-link {
+        font-size: 20px;
+    }
+    .lang {
+        width: 20px;
+        height: 20px;
+    }
+    .left-content-site-link {
+        font-size: 45px;
+    }
+    .left-content-site-info {
+        font-size: 20px;
+    }
+    .header .nav-i {
+        font-size: 17px;
+    }
+    .header-new-btn span:last-child {
+        padding-left: 10px;
+        font-size: 20px;
+    }
+    .header-new-btn .new-btn-add-icon span {
+        padding: 0;
+    }
+    /*home page filter content*/
+    .short-search label, .short-search input[type="text"],
+    .short-search select, .short-search button,
+    .short-search .q_region select,.short-search .ad-count {
+        font-size: 13px;
+    }
+    .short-search .btn-search, .short-search .btn-full-search {
+        font-size: 16px;
+    }
+    .short-search label.boolean:before {
+        width: 22px;
+        height: 22px;
+        top: 50%;
+        right: 7px;
+    }
+    .short-search label.boolean:after {
+        width: 13px;
+        height: 13px;
+        background-size: 13px 13px;
+        right: 6.5px;
+        top: 10.5px;
+    }
+}
+@media (max-width: 1270px) {
+    /*search*/
+    .search-product #q_currency {
+        left: -95px;
+    }
+}
+@media (max-width: 1200px) {
+    /* screen:1200px responsive and then less */
+    /*header top bar*/
+    .header-bar-i, .header-bar-social-media {
+        font-size: 12px;
+        line-height: 38px;
+    }
+    .sm-icon-link {
+        font-size: 18.5px;
+    }
+    .header-bar-i--bookmarks, .header-bar-i--login {
+        padding-left: 5px;
+    }
+    .lang {
+        width: 19px;
+        height: 19px;
+    }
+    /*header main bar*/
+    .left-content-site-link {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    .left-content-site-info {
+        font-size: 19px;
+    }
+    /*header menu bar*/
+    .header .nav {
+        height: 50px;
+    }
+    .header .nav-i {
+        font-size: 16px;
+    }
+    .header-new-btn .new-btn-add-icon {
+        width: 35px;
+        height: 35px;
+    }
+    .header-new-btn span:last-child {
+        font-size: 18.5px;
+    }
+    .header-new-btn .new-btn-add-icon span {
+        line-height: 35px;
+        font-size: 26px;
+    }
+    /*header filter*/
+    .short-search .q_make select, .short-search .q_model select, .short-search .q_region select {
+        border: none;
+    }
+    .short-search label.boolean:before {
+        width: 20px;
+        height: 20px;
+        right: 5px;
+    }
+    .short-search label.boolean:after {
+        width: 12px;
+        height: 12px;
+        background-size: cover;
+        right: 4px;
+        top: 10.5px;
+    }
+    .short-search label.boolean {
+        padding: 0 25px 0 0;
+    }
+    /*section main container & section title*/
+    .section-title {
+        height: 55px;
+        line-height: 55px;
+    }
+    .section-title_name {
+        font-size: 18px;
+    }
+    .section-title_more {
+        font-size: 16px;
+    }
+    /*product content*/
+    .products-content::before {
+        height: 310px;
+    }
+    .products-img {
+        height: 180px;
+    }
+    .products-paid .vip-img, .products-paid .premium-img {
+        width: 22px;
+    }
+    /*avtosalon page & shops content*/
+    .shops-i {
+        height: 170px;
+    }
+    /*elan page responsive*/
+    .breadcrumbs-i {
+        font-size: 18px;
+    }
+    .product-name-row {
+        padding: 15px;
+    }
+    .product-name {
+        font-size: 22px;
+    }
+    .product-services {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 14px 15px;
+    }
+    .product .services-label {
+        font-size: 16px;
+        letter-spacing: 0;
+        margin-bottom: 0;
+    }
+    .product .services-i {
+        margin-right: 12px;
+        font-size: 14px;
+        padding: 0 12px 0 35px;
+    }
+    .product .services-i_bump::before {
+        left: 7px;
+    }
+    .product-credit-info .auto-credit-section, .product-deposit-info .auto-deposit-section {
+        width: 255px;
+    }
+    .auto-credit-section label, .auto-deposit-section label {
+        font-size: 11px!important;
+    }
+    .product-credit-info label:nth-child(1),
+    .product-deposit-info label:nth-child(1) {
+        width: 27%!important;
+    }
+    .product-credit-info label:nth-child(3),.product-deposit-info label:nth-child(3) {
+        width: 36%!important;
+    }
+    .product-credit-info label:nth-child(2) {
+        width: 37%!important;
+    }
+    .auto-credit-section select, .auto-credit-section input[type='number'],
+    .auto-credit-section input[type='text'], .auto-deposit-section select,
+    .auto-deposit-section input[type='number'], .auto-deposit-section input[type='text'] {
+        height: 32px!important;
+        line-height: 32px!important;
+        padding: 0 8px!important;
+        font-size: 12px;
+    }
+    /*elan page*/
+    .product-photos {
+        height: 345px;
+    }
+    /*search page*/
+    .new-product label:not(.pond-new-img), .search-product label:not(.pond-new-img) {
+        font-size: 14px;
+    }
+}
+@media (max-width: 1155px) {
+    /*product content*/
+    .products-content::before {
+        height: 300px;
+    }
+    .products-img {
+        height: 170px;
+    }
+    .salon-text, .deposit-text, .taxi-text {
+        font-size: 14px;
+    }
+    .product-price {
+        font-size: 15px;
+        line-height: 33px;
+        border-radius: 0 4px 0 0;
+    }
+    .credit-item, .barter-item {
+        width: 26px;
+        height: 26px;
+    }
+    .products-name {
+        font-size: 17px;
+        margin-bottom: 7px;
+    }
+    /*create-elan page*/
+    .section-main-container {
+        padding: 0 12%;
+    }
+}
+@media (max-width: 1124px) {
+    /*header menu bar*/
+    .header .nav-i {
+        font-size: 15px;
+    }
+    .header-new-btn .new-btn-add-icon {
+        width: 34px;
+        height: 34px;
+    }
+    .header-new-btn span:last-child {
+        font-size: 17px;
+    }
+    .header-new-btn .new-btn-add-icon span {
+        line-height: 34px;
+        font-size: 25px;
+    }
+    /*home page filter content*/
+    .homepage-filter input:not([type='checkbox']):not([type='radio']),
+    .homepage-filter select, .short-search input[type="text"], .short-search select, .short-search button,
+    .short-search label, .short-search .ad-count, .short-search label.boolean, .short-search .btn-search,
+    .short-search .btn-full-search {
+        height: 38px;
+        line-height: 38px !important;
+    }
+    .short-search .q_price input[type="text"], .short-search .q_price label,
+    .short-search .q_price select, .short-search .q_reg_year input[type="text"],
+    .short-search .q_reg_year label, .short-search .q_reg_year select {
+        border-right: 3px solid #e1e1e1;
+    }
+    .short-search label, .short-search input[type="text"],
+    .short-search select, .short-search button,
+    .short-search .q_region select, .short-search .ad-count {
+        font-size: 12px;
+    }
+    .short-search .btn-search, .short-search .btn-full-search {
+        font-size: 14px;
+    }
+    .short-search label.boolean:before {
+        width: 19px;
+        height: 19px;
+        right: 4px;
+    }
+    .short-search label.boolean:after {
+        width: 10px;
+        height: 10px;
+        background-size: cover;
+        right: 3px;
+        top: 11px;
+    }
+    /*product content*/
+    .products-content::before {
+        height: 285px;
+    }
+    .products-img {
+        height: 160px;
+    }
+    .salon-text, .deposit-text, .taxi-text {
+        font-size: 13px;
+    }
+    .product-price {
+        font-size: 14px;
+        line-height: 30px;
+        border-radius: 0 3px 0 0;
+    }
+    .credit-item, .barter-item {
+        width: 25px;
+        height: 25px;
+    }
+    .products-description {
+        padding: 12px 8px 18px 8px;
+        max-height: 100px;
+    }
+    .products-name {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    .products-paid .vip-img, .products-paid .premium-img {
+        width: 18px;
+    }
+    /*avtosalon page & shops content*/
+    .shops-i {
+        height: 165px;
+    }
+    .shops-i--title {
+        font-size: 17px;
+    }
+    .shops-i--description {
+        font-size: 13px;
+    }
+    .shops-i--contact-content i {
+        font-size: 20px;
+    }
+    .shops-i--contact {
+        font-size: 13px;
+    }
+    /*elan page responisve*/
+    .breadcrumbs-i {
+        font-size: 17px;
+    }
+    .product-name-row {
+        padding: 15px 18px;
+    }
+    .product-name {
+        font-size: 22px;
+    }
+    .product-services {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 14px 18px;
+    }
+    .product .services-label {
+        font-size: 16px;
+        letter-spacing: 0;
+        margin-bottom: 0;
+    }
+    .product .services-i_bump::before {
+        left: 7px;
+        width: 1.2em;
+        height: 1.2em;
+        margin-top: -8px;
+    }
+    .product .services-i {
+        margin-right: 10px;
+        font-size: 13px;
+        border-radius: 2px;
+        padding: 0 10px 0 30px;
+        border: .7px solid #0060cf;
+        line-height: 30px;
+    }
+    .product .services-i_vip::before {
+        width: 1.5em;
+        height: 1.5em;
+        margin-top: -10px;
+    }
+    .product .services-i_featured::before {
+        width: 2.75em;
+        height: 2.75em;
+        left: -3px;
+        margin-top: -17.5px;
+    }
+    .product .services-i-price {
+        right: -4px;
+        top: -10px;
+        border-radius: 2px;
+        padding: 0 5px;
+        line-height: 18px;
+        font-size: 9px;
+        font-weight: bold;
+    }
+    .product-header .product-price {
+        padding: 5px 10px;
+        font-size: 25px;
+    }
+    .product .seller-info .seller-contacts-icon .icon-svg--phone {
+        font-size: 30px;
+    }
+    .seller-contact a, .seller-contact p {
+        font-size: 14px;
+    }
+    .product-statistics {
+        line-height: 18px;
+        font-size: 12px;
+    }
+    .product-properties label {
+        font-size: 16px;
+    }
+    .product-properties-value {
+        font-size: 14px;
+    }
+    .product-extras-i {
+        padding-left: 15px;
+        font-size: 18px;
+    }
+    .product-credit-info p, .product-deposit-info p {
+        font-size: 16px;
+    }
+    .product-credit-info .auto-credit-section, .product-deposit-info .auto-deposit-section {
+        width: 240px;
+    }
+    .auto-credit-section label, .auto-deposit-section label {
+        font-size: 10px!important;
+    }
+    .auto-credit-section select, .auto-credit-section input[type='number'],
+    .auto-credit-section input[type='text'], .auto-deposit-section select,
+    .auto-deposit-section input[type='number'], .auto-deposit-section input[type='text'] {
+        height: 30px!important;
+        line-height: 30px!important;
+        padding: 0 8px!important;
+        font-size: 12px;
+    }
+    .product-actions-i {
+        padding: 5px 7px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .product-actions-i i {
+        margin-right: 5px;
+        font-size: 16px;
+    }
+    /* Avtosalon inner page */
+    span.salon-content-img {
+        height: 220px;
+    }
+    .shops-cover-block {
+        height: 100px;
+    }
+    .shops-cover-left {
+        font-size: 25px;
+    }
+    .shop-header {
+        padding: 15px 20px;
+    }
+    .shop-page-head:before {
+        bottom: 35px;
+    }
+    .shop--logo, .shop-header-text {
+        height: 140px;
+        margin-bottom: 10px;
+    }
+    .shop--products-count, .shop--special-offer {
+        line-height: 38px;
+        font-size: 14px;
+    }
+    .shop--title {
+        margin: 5px 0;
+        font-size: 20px;
+    }
+    .shop--views {
+        margin-bottom: 5px;
+        font-size: 11px;
+    }
+    .shop--views+.shop--description {
+        font-size: 13px;
+        margin-bottom: 8px;
+    }
+    .shop--location {
+        font-size: 14px;
+        height: 18px;
+        line-height: 18px;
+    }
+    .shop--location i, .shop-phones i, .shop--schedule i {
+        color: #4a89dc;
+        font-size: 18px;
+        margin-right: 8px;
+    }
+    .shop-header-cell_description {
+        margin-right: 15px;
+    }
+    .shop-header-cell_feedback {
+        padding-left: 15px;
+    }
+    .shop-container .shop-phones {
+        margin-bottom: 8px;
+    }
+    .shop--schedule {
+        font-size: 13px;
+    }
+/*    create elan*/
+    .form-title, .search-product--title, .new-product .auto_extras .control-label,
+    .search-product .auto_extras .control-label, .new-product--title {
+        font-size: 22px;
+    }
+    .new-product--notice, .search-product--notice {
+        margin: 10px 0;
+        line-height: 24px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 1024px) {
+    /*header top bar*/
+    .header-bar-i, .header-bar-social-media {
+        font-size: 11px;
+        line-height: 30px;
+    }
+    .nav-sm-link {
+        font-size: 12px;
+        color: #ffffff;
+    }
+    .sm-icon-link {
+        font-size: 16px;
+        margin-right: 5px;
+    }
+    .header-bar-i--bookmarks, .header-bar-i--login {
+        padding-left: 0;
+    }
+    .lang {
+        width: 16px;
+        height: 16px;
+    }
+    /*header main bar*/
+    .left-content-site-link {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .left-content-site-info {
+        font-size: 17px;
+    }
+    .header-main-bar-left {
+        padding-right: 0!important;
+    }
+    .header-main-bar-right {
+        height: 120px;
+        padding-left: 0!important;
+    }
+    /*header menu bar*/
+    .header .nav {
+        height: 40px;
+    }
+    .header .nav-i {
+        font-size: 14px;
+    }
+    .header-new-btn .new-btn-add-icon {
+        width: 28px;
+        height: 28px;
+    }
+    .header-new-btn span:last-child {
+        font-size: 16px;
+    }
+    .header-new-btn .new-btn-add-icon span {
+        line-height: 28px;
+        font-size: 18px;
+    }
+    /*home page filter content*/
+    .short-search {
+        padding: 15px 0 5px 0;
+    }
+    select {
+        background-size: 12px 12px;
+    }
+    .homepage-filter input:not([type='checkbox']):not([type='radio']),
+    .homepage-filter select, .short-search input[type="text"], .short-search select, .short-search button,
+    .short-search label, .short-search .ad-count, .short-search label.boolean, .short-search .btn-search,
+    .short-search .btn-full-search {
+        height: 35px;
+        line-height: 35px !important;
+    }
+    .short-search label, .short-search input[type="text"],
+    .short-search select, .short-search button,
+    .short-search .q_region select, .short-search .ad-count {
+        font-size: 12px;
+    }
+    .short-search .btn-search, .short-search .btn-full-search {
+        margin-bottom: 4px;
+        font-size: 15px;
+    }
+    .short-search label.boolean {
+        padding: 0 20px 0 0;
+    }
+    .short-search label.boolean:before {
+        width: 16px;
+        height: 16px;
+        right: 4px;
+        transform: translateY(5%);
+    }
+    .short-search label.boolean:after {
+        top: 7px;
+        right: 2px;
+    }
+    /*section main container & section title*/
+    .section-title {
+        height: 45px;
+        line-height: 45px;
+    }
+    .section-title_name {
+        font-size: 16px;
+    }
+    .section-subtitle_name, .section-title_more {
+        font-size: 14px;
+    }
+    /*product content*/
+    .products-content::before {
+        height: 260px;
+    }
+    .products-i {
+        border-radius: 3px 3px 0 0;
+    }
+    .products-img {
+        height: 140px;
+    }
+    .products-info {
+        transform: translate(-37%, 90%) rotate(-45deg);
+    }
+    .salon-text, .deposit-text, .taxi-text {
+        font-size: 11px;
+    }
+    .product-price {
+        font-size: 12px;
+        line-height: 26px;
+        padding: 0 10px;
+        border-radius: 0 2px 0 0;
+    }
+    .credit-item, .barter-item {
+        width: 20px;
+        height: 20px;
+    }
+    .products-description {
+        padding: 10px 8px 14px 8px;
+        max-height: 90px;
+    }
+    .products-name {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .products-attributes p.products-attributes-i {
+        font-size: 12px;
+    }
+    .products-bottom{
+        font-size: 10px;
+    }
+    .products-paid .premium-img, .products-paid .vip-img {
+        width: 16px;
+    }
+    /*products pagination*/
+    .pagination-content {
+        padding: 40px 0;
+    }
+    .page-link {
+        padding: .45rem .60rem;
+        line-height: 1.12;
+        font-size: 14px;
+    }
+    /*footer*/
+    .footer-info {
+        font-size: 13px;
+    }
+    .footer-text p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .footer-text a {
+        font-size: 14px;
+    }
+    /* Avtosalon inner page */
+    .shops-container {
+        padding: 22px 10% 18px;
+    }
+    .shops-cover-block {
+        height: 90px;
+    }
+    .shops-cover-left {
+        font-size: 23px;
+    }
+    .shop-header {
+        padding: 10px 0;
+    }
+    .shop-page-head:before {
+        bottom: 30px;
+    }
+    .shops-i {
+        width: 49%;
+        margin-bottom: 20px;
+    }
+    /*Create-elan page*/
+    .pond-img-list {
+        padding: 20px 15px;
+    }
+
+    .pond-descr .rule_item:not(:last-of-type) {
+        margin-bottom: 10px;
+    }
+
+    .pond-descr .rule_item:not(:last-of-type) {
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+
+    .pond-img-card, .pond-new-img-button {
+        height: 100px;
+    }
+
+    .pond-new-img-icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    .choose-type-i {
+        height: 260px;
+        border-radius: 4px;
+    }
+
+    .choose-type-i--profits {
+        width: 190px;
+        height: 80px;
+        font-size: 18px;
+    }
+    .choose-type-vip .choose-type-i--profits {
+        font-size: 18px;
+    }
+    .choose-type-free .choose-type-i--profits {
+        line-height: 1.15;
+        font-size: 17px;
+        padding: 10px;
+    }
+    .choose-type-vip .choose-type-i--profits strong span:first-of-type {
+        font-size: 34px;
+        margin-bottom: 5px;
+    }
+    .choose-type-i--description {
+        margin: 10px auto 15px 30px;
+    }
+
+    .choose-type-vip .choose-type-i--description {
+        width: 260px;
+    }
+    .choose-type-i--description-title {
+        font-size: 23px;
+    }
+    .choose-type-i--description-text {
+        font-size: 13px;
+        line-height: 1.29;
+    }
+    .choose-type-i--button-container {
+        bottom: 20px;
+    }
+    .choose-type-i--button {
+        font-size: 15px;
+        width: 220px;
+        padding: 8px;
+    }
+    /*elan page*/
+    .product-photos {
+        height: 300px;
+    }
+    .product-credit-title, .product-deposit-title {
+        font-size: 24px;
+        letter-spacing: 1.5px;
+    }
+    .product-credit-box, .product-deposit-box {
+        height: 35px;
+        font-size: 17px;
+    }
+    .product-credit-box i, .product-deposit-box i {
+        font-size: 19px;
+    }
+    .product-properties label {
+        font-size: 18px;
+    }
+    .product-properties-value {
+        font-size: 16px;
+    }
+    .product-extras-i {
+        font-size: 20px;
+    }
+    /*create-elan page*/
+    .section-main-container {
+        padding: 0 9%;
+    }
+    .mfp-container {
+        width: 800px;
+    }
+}
+@media (max-width: 992px) {
+    .header-bar-container, .header-main-bar-container, .section-title-container {
+        padding: 0 13%;
+    }
+    .header-menu-bar-container, .filter-container, .shop-page-head, .shops-top-content-img {
+        padding: 0 10%;
+    }
+    .autosalon-anounce-container .shop-page-header, .product-container, .products,
+    .autosalon-product .products, .shops-container{
+        padding: 0 5%;
+    }
+    .left-element-ad, .right-element-ad {
+        display: none;
+    }
+    .section-main-container {
+        padding: 0 7%;
+    }
+    .shops-i {
+        width: 49%;
+        height: 160px;
+    }
+    .shops-i--info {
+        padding: 12px 10px;
+    }
+    /*header*/
+    .header-main-bar-right {
+        padding-left: 15px!important;
+    }
+    /*elan page responsive*/
+    .product, .banners-right {
+        margin-top: 10px;
+    }
+    .product-photos {
+        height: 260px;
+    }
+}
+@media (max-width: 900px) {
+    .new-product label:not(.pond-new-img), .search-product label:not(.pond-new-img) {
+        font-size: 13px;
+    }
+    .new-product input[type='email'], .new-product input[type='number'],
+    .new-product input[type='text'], .new-product input[type='password'],
+    .new-product select, .search-product input[type='email'],
+    .search-product input[type='number'], .search-product input[type='text'],
+    .search-product input[type='password'], .search-product select, .search-product textarea {
+        font-size: 13px;
+        height: 36px;
+        line-height: 36px;
+        border-radius: 7px;
+    }
+    .new-product .photo-rules li {
+        font-size: 14px;
+    }
+    .limits-container {
+        width: 80%;
+    }
+}
+@media (max-width: 850px) {
+    /*header main bar*/
+    .left-content-site-link {
+        font-size: 35px;
+        line-height: 43px;
+    }
+    .left-content-site-info {
+        font-size: 16px;
+    }
+    /*header menu*/
+    .header .nav-i {
+        font-size: 13px;
+    }
+    .header-new-btn span:last-child {
+        font-size: 15px;
+        padding-left: 7px;
+    }
+    .header-new-btn .new-btn-add-icon span {
+        padding: 0;
+        font-size: 18px;
+    }
+    /*home page filter content*/
+    select {
+        background-position: center right 3px;
+        padding: 0 5px;
+    }
+    .homepage-filter input:not([type='checkbox']):not([type='radio']),
+    .homepage-filter select, .short-search .q_price input[type="text"], .short-search .q_price label,
+    .short-search .q_price select, .short-search .q_reg_year input[type="text"],
+    .short-search .q_reg_year label, .short-search .q_reg_year select {
+        border-right: 2px solid #e1e1e1;
+    }
+    .short-search label, .short-search input[type="text"],
+    .short-search select, .short-search button,
+    .short-search .q_region select, .short-search .ad-count {
+        font-size: 10px;
+    }
+    .short-search .btn-search, .short-search .btn-full-search {
+        font-size: 12px;
+    }
+    /*section main container & section title*/
+    .section-title {
+        height: 42px;
+        line-height: 42px;
+    }
+    .section-title_name {
+        font-size: 15px;
+    }
+    .section-subtitle_name, .section-title_more {
+        font-size: 13px;
+    }
+    /*product content*/
+    .products-content::before {
+        height: 230px;
+    }
+    .products-content::after{
+        height: 50px;
+    }
+    .row.grid {
+        grid-gap: .5rem;
+    }
+    .products-img {
+        height: 120px;
+    }
+    .products-info {
+        transform: translate(-38%, 90%) rotate(-45deg);
+    }
+    .salon-text, .deposit-text, .taxi-text {
+        font-size: 10px;
+    }
+    .product-price {
+        font-size: 11px;
+        line-height: 22px;
+        padding: 0 8px;
+        border-radius: 0 2px 0 0;
+    }
+    .credit-item, .barter-item {
+        width: 18px;
+        height: 18px;
+    }
+    .products-description {
+        padding: 8px 7px 12px 7px;
+        max-height: 85px;
+    }
+    .products-name {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .products-paid .premium-img, .products-paid .vip-img {
+        width: 16px;
+    }
+    /*elan page responsive*/
+    .product-credit-title, .product-deposit-title {
+        font-size: 20px;
+        letter-spacing: 1px;
+    }
+    .product-credit-box, .product-deposit-box {
+        height: 30px;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+    .product-credit-box i, .product-deposit-box i {
+        font-size: 17px;
+    }
+    .breadcrumbs-i {
+        font-size: 15px;
+    }
+    .section-title-container hr {
+        margin-top: 0!important;
+        margin-bottom: 0!important;
+    }
+    .product-photos {
+        padding: 10px;
+        height: 250px;
+    }
+    .product-name-row {
+        padding: 10px 12px;
+    }
+    .product-name {
+        font-size: 18px;
+    }
+    .product-services {
+        padding: 10px 12px;
+    }
+    .product .services-label {
+        font-size: 14px;
+    }
+    .product .services-i {
+        margin-right: 7px;
+        font-size: 11px;
+        padding: 0 7px 0 24px;
+    }
+    .product .services-i_bump::before {
+        left: 5px;
+        margin-top: -6px;
+    }
+    .product .services-i-price {
+        right: -4px;
+        top: -7px;
+        border-radius: 2px;
+        padding: 0 3px;
+        line-height: 14px;
+        font-size: 8px;
+        font-weight: normal;
+    }
+    .product .services-i_vip::before {
+        width: 1.5em;
+        height: 1.5em;
+        margin-top: -9px;
+        left: 4px;
+    }
+    .product .services-i_featured::before {
+        width: 2.5em;
+        height: 2.5em;
+        left: -2px;
+        margin-top: -14px;
+    }
+    .product-header {
+        margin-bottom: 10px;
+        padding: 10px 0 10px 12px;
+    }
+    .product-header .product-price {
+        padding: 0 7px;
+        font-size: 18px;
+    }
+    .product-header .product-price span {
+        vertical-align: top;
+        margin-bottom: 7px;
+        margin-left: 3px;
+        font-size: 16px;
+    }
+    .seller-info {
+        margin-left: 10px;
+    }
+    .product .seller-info .seller-contacts-icon .icon-svg--phone {
+        font-size: 22px;
+    }
+    .seller-contact a, .seller-contact p {
+        font-size: 12px;
+    }
+    .product-statistics {
+        line-height: 14px;
+        font-size: 10px;
+        margin-right: 12px;
+    }
+    .product-properties label {
+        font-size: 14px;
+    }
+    .product-properties-value {
+        font-size: 12px;
+    }
+    .product-extras-i {
+        padding-left: 10px;
+        font-size: 15px;
+    }
+    .product-text {
+        padding: 10px 0;
+        line-height: 17px;
+        font-size: 13px;
+    }
+    .product-credit-info p, .product-deposit-info p {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+    .product-credit-info .auto-credit-section, .product-deposit-info .auto-deposit-section {
+        width: 200px;
+    }
+    .auto-credit-section select, .auto-credit-section input[type='number'], .auto-credit-section input[type='text'], .auto-deposit-section select, .auto-deposit-section input[type='number'], .auto-deposit-section input[type='text'] {
+        height: 24px!important;
+        line-height: 24px!important;
+        padding: 0 5px!important;
+        font-size: 10px;
+    }
+    .product-actions-i {
+        padding: 4px 5px;
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .product-actions-i i {
+        margin-right: 3px;
+        font-size: 14px;
+    }
+    /*Avtosalon inner page responsive*/
+    span.salon-content-img {
+        height: 200px;
+    }
+    .shops-cover-block {
+        height: 80px;
+    }
+    .shops-cover-left {
+        font-size: 20px;
+    }
+    .shop--logo, .shop-header-text {
+        height: 120px;
+        margin-bottom: 10px;
+    }
+    .shop--title {
+        margin: 0;
+        padding-bottom: 0;
+        font-size: 18px;
+    }
+    .shop-phones-i {
+        font-size: 12px;
+    }
+    .shop--schedule {
+        font-size: 12px;
+    }
+
+    .mfp-container {
+        width: 700px;
+    }
+}
+@media (max-width: 800px) {
+    /*header*/
+    .header-bar {
+        padding: 2.5px 0;
+    }
+    .header-bar-i, .header-bar-social-media {
+        font-size: 9px;
+        line-height: 25px;
+    }
+    .nav-sm-link {
+        font-size: 10px;
+    }
+    .sm-icon-link {
+        font-size: 13px;
+        margin-right: 4px;
+    }
+    .lang {
+        width: 14px;
+        height: 14px;
+    }
+    .header-bar-i--bookmarks, .header-bar-i--login {
+        margin-left: 10px;
+    }
+    .left-content-site-link {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .left-content-site-info {
+        font-size: 14px;
+    }
+    .header-main-bar-right {
+        height: 100px;
+    }
+    .header .nav-i {
+        font-size: 12px;
+    }
+    .header-new-btn span:last-child {
+        font-size: 13px;
+        padding-left: 5px;
+    }
+    .header-new-btn .new-btn-add-icon {
+        width: 24px;
+        height: 24px;
+    }
+    .header-new-btn .new-btn-add-icon span {
+        padding: 0;
+        font-size: 16px;
+    }
+    /*filter content*/
+    .short-search {
+        padding: 10px 0 5px 0;
+    }
+    .homepage-filter input:not([type='checkbox']):not([type='radio']),
+    .homepage-filter select, .short-search input[type="text"], .short-search select,
+    .short-search button, .short-search label, .short-search .ad-count, .short-search label.boolean,
+    .short-search .btn-search, .short-search .btn-full-search {
+        height: 32px;
+        line-height: 32px !important;
+    }
+    /*products section*/
+    .section-title_name {
+        font-size: 14px;
+    }
+    /*footer section*/
+    .footer-info {
+        font-size: 12px;
+    }
+    .footer-text p {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .footer-text a {
+        font-size: 13px;
+    }
+    /*search page*/
+    .new-product label:not(.pond-new-img), .search-product label:not(.pond-new-img) {
+        font-size: 12px;
+    }
+    .search-product span label:not(.pond-new-img) {
+        padding-left: 24px;
+    }
+    .new-product input[type='email'], .new-product input[type='number'],
+    .new-product input[type='text'], .new-product input[type='password'],
+    .new-product select, .search-product input[type='email'],
+    .search-product input[type='number'], .search-product input[type='text'],
+    .search-product input[type='password'], .search-product select, .search-product textarea {
+        font-size: 12px;
+        height: 32px;
+        line-height: 32px;
+        border-radius: 5px;
+    }
+    .search-product #q_currency {
+        left: -70px;
+    }
+    div.boolean label:before, .radio_buttons label:before, .checkbox label:before,
+    .auto_extras span label:before {
+        width: 20px;
+        height: 20px;
+        border-radius: 2px;
+    }
+    div.boolean label:before {
+        top: 12px;
+    }
+    div.boolean label:after, .radio_buttons label:after, .checkbox label:after,
+    .auto_extras span label:after {
+        background-size: cover;
+        left: 4px;
+        top: 6px;
+        margin: 0;
+        width: 12px;
+        height: 12px;
+    }
+    .auto_extras span label:after {
+        top: 4px;
+    }
+    .form-title, .search-product--title {
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .search-product button, .new_search_alert button {
+        padding: 0 15px;
+        font-size: 16px;
+        line-height: 35px;
+        height: 35px;
+    }
+    /*create elan*/
+    .limits-container {
+        width: 100%;
+    }
+    .new-product .hint, .search-product .hint {
+        font-size: 12px;
+    }
+    .pond-descr .rule_item {
+        margin-bottom: 7px;
+        font-size: 12px;
+    }
+}
+@media (min-width: 768px) and (max-width: 840px) {
+    .shops-i {
+        height: 150px;
+    }
+    .shops-i--logo {
+        width: 35%;
+    }
+    .shops-i--info {
+        width: 65%;
+    }
+    .shops-i--logo img {
+        padding: 0 5px;
+    }
+    .shops-i--info {
+        padding: 7px 10px;
+    }
+    .shops-i--title {
+        font-size: 16px;
+    }
+    .shops-i--description {
+        font-size: 12px;
+    }
+    .shops-i--contact-content i {
+        font-size: 17px;
+    }
+    .shops-i--contact {
+        font-size: 12px;
+        margin: 5px 0;
+    }
+    .shops-i--ads-count {
+        font-size: 11px;
+        top: 5px;
+    }
+    /*elan page*/
+    .product-photos-thumbnails {
+        width: calc(50% - 10px);
+    }
+    .product-credit-title, .product-deposit-title {
+        font-size: 18px;
+        letter-spacing: 1px;
+    }
+    .product-credit-box, .product-deposit-box {
+        height: 27px;
+        font-size: 14px;
+        border-radius: 3px;
+        margin-bottom: 5px;
+    }
+    .product-credit-box i, .product-deposit-box i {
+        font-size: 16px;
+    }
+}
+@media (max-width: 767px) {
+    .header-bar-container, .header-main-bar-container, .section-title-container {
+        padding: 0 9%;
+    }
+    .header-menu-bar-container, .filter-container, .shop-page-head, .shops-top-content-img {
+        padding: 0 7%;
+    }
+    .autosalon-anounce-container .shop-page-header, .product-container, .products {
+        padding: 0 9%;
+    }
+    /*header*/
+    .left-content-site-link {
+        font-size: 38px;
+        line-height: 46px;
+    }
+    .left-content-site-info {
+        font-size: 18px;
+    }
+    .header-main-bar-right {
+        height: 120px;
+    }
+    /*for mobile screen*/
+    .header .nav {
+        height: 50px;
+    }
+    .header-new-btn span:last-child {
+        font-size: 18px;
+    }
+    .header-new-btn .new-btn-add-icon span {
+        line-height: 35px;
+        font-size: 24px !important;
+    }
+    .header-new-btn .new-btn-add-icon {
+        width: 35px;
+        height: 35px;
+    }
+    .header-bar-container {
+        display: none;
+    }
+    .nav-i {
+        display: none!important;
+    }
+    .opening-menu {
+        display: block;
+    }
+    .header-new-btn {
+        width: calc(80% - 15px);
+        margin-right: 15px;
+    }
+    .header-bar-i {
+        margin: 0;
+        padding: 20px 30px;
+        font-size: 18px;
+    }
+    .header-bar-i:hover, .nav-list:hover {
+        background-color: rgba(255,255,255, .1);
+    }
+    .header-bar-i i {
+        margin-right: 10px;
+        font-size: 24px;
+    }
+    .header-bar-social-media a{
+        font-size: 18px;
+    }
+    .header-bar-social-media {
+        display: block;
+        padding: 10px 30px;
+        font-size: 18px;
+    }
+    ul.nav-sm-list .nav-sm-item a {
+        margin-right: 15px;
+        font-size: 24px;
+    }
+    .header-bar-social-media .nav-sm-item:last-child {
+        display: block;
+        width: 100%;
+    }
+    /*Filter for mobile version*/
+    .homepage-filter {
+        display: none;
+    }
+    .homepage-mini-filter {
+        display: flex;
+        padding: 10px 15px;
+    }
+    .homepage-mini-filter select {
+        background-position: center right 10px;
+        background-size: 15px 15px;
+    }
+    .homepage-mini-filter .input.q_make, .homepage-mini-filter .input.q_model {
+        width: 100%;
+        margin-bottom: 4px;
+        margin-right: 0;
+    }
+    .homepage-mini-filter .input.q_make select, .homepage-mini-filter .input.q_model select {
+        font-size: 16px;
+        padding: 0 10px;
+        border: none;
+        line-height: 42px!important;
+        height: 42px!important;
+    }
+    .homepage-mini-filter .input.q_make select option {
+        width: 100%;
+        font-size: 14px;
+    }
+    .homepage-mini-filter .input.q_price {
+        width: 69.5%;
+    }
+    .homepage-mini-filter .input.q_price input {
+        width: 59.5%;
+        font-size: 16px;
+    }
+    .homepage-mini-filter .input.q_price select {
+        width: 40%;
+        line-height: 42px!important;
+        height: 42px!important;
+        font-size: 16px;
+    }
+    .homepage-mini-filter .btn-search {
+        width: 30%;
+        font-size: 16px;
+        line-height: 42px!important;
+        height: 42px!important;
+    }
+    .homepage-mini-filter .section-subtitle_name {
+        width: 50%;
+        display: flex;
+        align-items: center;
+    }
+    .homepage-mini-filter .btn-full-search {
+        width: 50%;
+        text-align: end;
+        background: none;
+        color: #000;
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+    .homepage-mini-filter .btn-full-search i {
+        margin-right: 5px;
+        font-size: 16px;
+        color: #0066ff;
+    }
+    /*products responisve*/
+    .section-title_name {
+        font-size: 17px;
+    }
+    .section-subtitle_name, .section-title_more {
+        font-size: 14px;
+    }
+    .row.grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 2rem;
+    }
+    .products-content::before {
+        height: calc( 50% - 15px );
+    }
+    .products-content::after {
+        height: calc( 50% - 30px );
+    }
+    .products-img {
+        height: 200px;
+    }
+    .products-description {
+        padding: 15px 10px;
+        max-height: 100px;
+    }
+    .products-name {
+        font-size: 18px;
+        margin-bottom: 7.5px;
+    }
+    .products-paid .premium-img, .products-paid .vip-img {
+        width: 24px;
+    }
+    .product-price {
+        font-size: 18px;
+        line-height: 38px;
+        padding: 0 25px;
+        border-radius: 0 4px 0 0;
+    }
+    .credit-item, .barter-item {
+        width: 34px;
+        height: 34px;
+        line-height: 34px;
+        font-size: 14px;
+    }
+    .salon-text, .deposit-text, .taxi-text {
+        font-size: 16px;
+    }
+    .products-info {
+        transform: translate(-33%, 95%) rotate(-45deg);
+    }
+    /*pagination*/
+    .page-link {
+        padding: .5rem 1rem;
+        line-height: 1.25;
+        font-size: 16px;
+    }
+    /*container*/
+    .container {
+        max-width: 100% !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        margin: 0!important;
+    }
+    /*avtosalon page*/
+    .shops-i {
+        width: 100%;
+        height: 160px;
+    }
+    .shops-i--logo {
+        width: 30%;
+    }
+    .shops-i--info {
+        width: 70%;
+        padding: 20px 30px;
+    }
+    .shops-i--ads-count {
+        right: 20px;
+    }
+    .banners-right {
+        display: none;
+    }
+    .product-header-left-wrapper {
+        width: 100%;
+    }
+    /*create page*/
+    .new-product-i, .search-product-i {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .new-product .left-side, .new-product .right-side,
+    .search-product .left-side, .search-product .right-side {
+        width: 100%;
+        margin: 0;
+        margin-top: 15px;
+    }
+    .search-product #q_currency {
+        left: -150px;
+    }
+    .new-product .auto_extras>span, .search-product .auto_extras>span {
+        width: 33%;
+    }
+/*    reveal contents*/
+    .reveal-modal--terminal-promotion .reveal-modal-popup {
+        width: 500px;
+        padding: 20px 30px;
+    }
+    .terminal-promotion p {
+        font-size: 14px;
+        line-height: 1.2;
+        letter-spacing: 1px;
+    }
+    .terminal-promotion__title {
+        margin-bottom: 20px;
+    }
+    .terminal-promotion__go-to-terminal {
+        margin-bottom: 15px;
+    }
+    .terminal-promotion__product-id {
+        width: 250px;
+        height: 45px;
+        font-size: 18px;
+    }
+    .terminal-promotion__product-id-hint {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .mfp-container {
+        width: 600px;
+    }
+    /*result page for create elan*/
+    .limits--num, .limits--pin {
+        padding: 5px 10px;
+    }
+    .limits-acount--text {
+        margin-bottom: 0;
+    }
+}
+@media (max-width: 704px) {
+    .left-content-site-link {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .left-content-site-info {
+        font-size: 16px;
+    }
+    .section-title_name {
+        font-size: 16px;
+    }
+    /* autosalons & company page, autosalon-inner page responsive*/
+    span.salon-content-img {
+        height: 180px;
+        padding: 50px 20px;
+    }
+    .shops-cover-block {
+        height: 70px;
+    }
+    .shops-cover-left {
+        font-size: 17px;
+        padding-left: 7%;
+    }
+    .shop--logo, .shop-header-text {
+        height: 100px;
+        margin-bottom: 7px;
+    }
+    .shop--title {
+        font-size: 16px;
+        padding-top: 4px;
+    }
+    .shop--views {
+        margin-bottom: 3px;
+        font-size: 10px;
+    }
+    .shop-phones-i {
+        font-size: 10px;
+    }
+    .shop--schedule {
+        font-size: 10px;
+    }
+    .shop--views+.shop--description {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .shop--location {
+        font-size: 12px;
+        height: 16px;
+        line-height: 16px;
+    }
+    .shop--location i, .shop-phones i, .shop--schedule i {
+        color: #4a89dc;
+        font-size: 14px;
+        margin-right: 5px;
+    }
+    .shop-header-cell_description {
+        margin-right: 0;
+        padding-right: 10px;
+    }
+    .shop-header-cell_feedback {
+        padding-left: 10px;
+        padding-top: 0;
+    }
+    .shop-container .shop-phones {
+        margin-bottom: 2px;
+    }
+    .shop--products-count, .shop--special-offer {
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .shop--special-offer i {
+        padding-right: 10px;
+        font-size: 16px;
+    }
+    /*elan page*/
+    .product-credit-title, .product-deposit-title {
+        font-size: 16px;
+        letter-spacing: .7px;
+    }
+    .product-credit-box, .product-deposit-box {
+        height: 20px;
+        font-size: 12px;
+        border-radius: 3px;
+        margin-bottom: 4px;
+    }
+    .product-credit-box i, .product-deposit-box i {
+        font-size: 14px;
+    }
+    /*create elan*/
+    .pond-img-card, .pond-new-img-button {
+        height: 90px;
+    }
+    .pond-img-card span {
+        font-size: 12px;
+    }
+    .limits {
+        margin: 20px auto 28px;
+        padding: 25px 20px;
+        border-radius: 15px;
+        border: 2px solid #d8d8d8;
+    }
+    .limits--title {
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+    .limits--rules {
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+    .limits-phone--title {
+        font-size: 14px;
+    }
+    .new-product .limits--phone-number[type="tel"], .new-auto .limits--phone-number[type="tel"] {
+        height: 35px;
+        font-size: 14px;
+        padding: 5px 15px;
+        border-radius: 20px;
+    }
+    .limits--phone-error {
+        width: 230px;
+        font-size: 12px;
+    }
+    .limits--button {
+        width: 230px;
+        border-radius: 22px;
+        padding: 0 20px;
+        font-size: 15px;
+    }
+    .form-title, .search-product--title, .new-product .auto_extras .control-label,
+    .search-product .auto_extras .control-label, .new-product--title {
+        font-size: 18px;
+    }
+    .pond .control-label {
+        font-size: 18px !important;
+    }
+    /*result page for create elan*/
+    .limits--num, .limits--pin {
+        width: 35%
+    }
+    .limits-acount--text {
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+}
+@media (max-width: 665px) {
+    .left-content-site-link {
+        font-size: 35px;
+        line-height: 43px;
+    }
+    .header-main-bar-right {
+        height: 100px;
+    }
+
+    .navbar {
+        padding: .5rem .75rem;
+    }
+
+    .hamburger-menu {
+        width: 30px;
+        height: 30px;
+    }
+
+    .header-new-btn span:last-child {
+        font-size: 18px;
+    }
+
+    .header-new-btn .new-btn-add-icon {
+        width: 35px;
+        height: 35px;
+    }
+
+    .header-new-btn .new-btn-add-icon span {
+        line-height: 35px;
+        font-size: 24px !important;
+    }
+
+    /*filter*/
+    .homepage-mini-filter .input.q_make select, .homepage-mini-filter .input.q_model select {
+        font-size: 14px;
+        line-height: 40px !important;
+        height: 40px !important;
+    }
+
+    .homepage-mini-filter .input.q_make select option {
+        font-size: 12px !important;
+    }
+
+    .homepage-mini-filter .input.q_price input, .homepage-mini-filter .input.q_price select {
+        font-size: 14px;
+    }
+
+    .homepage-mini-filter .btn-search, .homepage-mini-filter .input.q_price input,
+    .homepage-mini-filter .input.q_price select {
+        line-height: 40px !important;
+        height: 40px !important;
+    }
+    /*footer*/
+    .footer-info {
+        font-size: 12px;
+    }
+
+    .footer-text p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .footer-text a {
+        font-size: 14px;
+    }
+/*    create elan*/
+    .choose-type-container {
+        flex-wrap: wrap;
+    }
+    .choose-type-i {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 625px) {
+    .left-content-site-link {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .left-content-site-info {
+        font-size: 15px;
+    }
+    .products-img {
+        height: 180px;
+    }
+    /* shops block */
+    .company .section-subtitle_name, .autosalons .section-subtitle_name {
+        display: none;
+    }
+    span.salon-content-img {
+        height: 160px;
+        padding: 40px 20px;
+    }
+    .shops-cover-block {
+        height: 50px;
+    }
+    .shops-cover-left {
+        font-size: 15px;
+        padding-left: 5%;
+    }
+    .shop-page-head {
+        padding: 0 5%;
+    }
+    /*elan page*/
+    .product-properties-container {
+        margin-left: 0;
+    }
+/*    create elan page*/
+    .pond-img-card span {
+        font-size: 10px;
+    }
+    .pond-img-card, .pond-new-img-button {
+        height: 80px;
+    }
+    .new-product .photo-rules li {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .new-product--confirm-rules {
+        font-size: 12px;
+    }
+
+    .mfp-container {
+        width: 500px;
+    }
+}
+@media (max-width: 595px) {
+    .left-content-site-link {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .left-content-site-info {
+        font-size: 14px;
+    }
+    .header-main-bar-right {
+        height: 92px;
+    }
+    .header .nav {
+        height: 48px;
+    }
+    .navbar {
+        padding: .35rem .55rem;
+    }
+    /*footer*/
+    .footer-info {
+        font-size: 10px;
+    }
+
+    .footer-text p {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .footer-text a {
+        font-size: 12px;
+    }
+    /*elan page*/
+    .product-container {
+        padding: 0 3%;
+    }
+    .product-photos {
+        padding: 7px;
+        height: 220px;
+    }
+    .product-photos-thumbnails {
+        width: calc(50% - 7px);
+    }
+/*    search page*/
+    .search-product #q_currency {
+        left: -120px;
+    }
+    .report_report_reason span.radio .collection_radio_buttons {
+        font-size: 15px;
+    }
+    /*reveal contents*/
+    .reveal-modal--terminal-promotion .reveal-modal-popup {
+        width: 400px;
+        padding: 20px 30px;
+    }
+    .reveal-modal.reveal-modal_service .reveal-modal-popup {
+        width: 400px;
+    }
+    .reveal-modal--content {
+        padding: 10px;
+        font-size: 12px;
+    }
+    .az-payments-type {
+        padding-bottom: 10px;
+    }
+    .reveal-modal button {
+        height: 32px;
+        line-height: 32px;
+        font-size: 13px;
+    }
+    .terminal-promotion p {
+        font-size: 12px;
+        line-height: 1;
+        letter-spacing: .75px;
+    }
+    .terminal-promotion__title {
+        margin-bottom: 12px;
+        font-size: 16px;
+    }
+    .terminal-promotion__go-to-terminal {
+        margin-bottom: 10px;
+    }
+    .terminal-promotion__product-id {
+        width: 200px;
+        height: 40px;
+        font-size: 16px;
+    }
+    .terminal-promotion__product-id-hint {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+}
+@media (max-width: 550px) {
+    .header-bar-container, .header-main-bar-container, .section-title-container {
+        padding: 0 5%;
+    }
+    .header-menu-bar-container, .filter-container {
+        padding: 0 2%;
+    }
+    .autosalon-anounce-container .shop-page-header, .products {
+        padding: 0 5%;
+    }
+    .shop-header {
+        display: none;
+    }
+    .shop-mini-header {
+        display: flex;
+    }
+}
+@media (max-width: 525px) {
+    .left-content-site-link {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .left-content-site-info {
+        font-size: 13px;
+    }
+    .header-main-bar-right {
+        height: 95px;
+    }
+    .header .nav {
+        height: 45px;
+    }
+    /*products section*/
+    .products-img {
+        height: 165px;
+    }
+    .products-description {
+        padding: 12px 8px;
+        max-height: 100px;
+    }
+    .products-name {
+        font-size: 17px;
+        margin-bottom: 7px;
+    }
+    .products-paid .premium-img, .products-paid .vip-img {
+        width: 18px;
+    }
+    .product-price {
+        font-size: 16px;
+        line-height: 32px;
+        padding: 0 20px;
+        border-radius: 0 3px 0 0;
+    }
+    .credit-item, .barter-item {
+        width: 28px;
+        height: 28px;
+        line-height: 28px;
+        font-size: 12px;
+    }
+    .salon-text, .deposit-text, .taxi-text {
+        font-size: 14px;
+    }
+    .products-info {
+        transform: translate(-33%, 100%) rotate(-45deg);
+    }
+    /*create elan page*/
+    .pond-img-list {
+        padding: 10px;
+    }
+    .pond-img-card span {
+        font-size: 9px;
+    }
+    .pond-img-card, .pond-new-img-button {
+        height: 70px;
+    }
+    .pond-descr .rule_item {
+        font-size: 11px!important;
+    }
+    .new-product .photo-rules li {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .new-product-alert, .search-product-alert, .edit-auto-alert,
+    .new_search_alert-alert, .session-login-form-alert, .user-password-reset-alert,
+    .user-password-set-alert {
+        font-size: 12px;
+    }
+
+    .mfp-container {
+        width: 400px;
+    }
+}
+@media (max-width: 504px) {
+    .product-properties-container {
+        width: 53%;
+    }
+    .product-credit-block, .product-deposit-block {
+        padding: 5px;
+    }
+    .product-credit-title, .product-deposit-title {
+        font-size: 14px;
+        letter-spacing: .7px;
+    }
+    .product-credit-box, .product-deposit-box {
+        height: 18px;
+        font-size: 10px;
+        border-radius: 1px;
+        margin-bottom: 3px;
+    }
+    .product-credit-box i, .product-deposit-box i {
+        font-size: 12px;
+    }
+    .product .services-label {
+        font-size: 13px;
+    }
+}
+@media (max-width: 490px) {
+    .left-content-site-link {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .left-content-site-info {
+        font-size: 13px;
+    }
+    .header-main-bar-right {
+        height: 100px;
+        padding-right: 0!important;
+    }
+    .header-main-bar-left {
+        padding-right: 0!important;
+    }
+    /*elan page*/
+    .report_report_reason span.radio .collection_radio_buttons {
+        font-size: 14px;
+    }
+    .product-photos {
+        /*width: 100%;*/
+        width: calc(100% - 40px);
+        height: auto;
+        margin: 0 auto;
+        flex-wrap: wrap;
+    }
+    .product-photos-large {
+        width: 100%;
+        height: 300px;
+        margin-bottom: 10px;
+    }
+    .product-photos-thumbnails {
+        width: 100%;
+    }
+    .product-photos-thumbnails_l a {
+        width: 16%;
+        height: 50px;
+        margin-bottom: .7%;
+    }
+    .product-name-row, .product-services, .product-header {
+        padding: 7px;
+    }
+    .product-name {
+        font-size: 16px;
+    }
+    .product .services-label {
+        font-size: 12px;
+    }
+    .product .services-i {
+        line-height: 24px;
+        margin-right: 3px;
+        font-size: 9px;
+        padding: 0 3px 0 15px;
+    }
+    .product .services-i_bump::before {
+        width: 1em;
+        height: 1em;
+        left: 3px;
+        margin-top: -5px;
+    }
+    .product .services-i_featured::before {
+        width: 2em;
+        height: 2em;
+        left: -2px;
+        margin-top: -8px;
+    }
+    .product .services-i_vip::before {
+        width: 1em;
+        height: 1em;
+        margin-top: -5px;
+        left: 3px;
+    }
+    .product .services-i-price {
+        right: -3px;
+        padding: 0 2px;
+        line-height: 12px;
+        font-size: 6px;
+    }
+    .product-header .product-price {
+        padding: 0 5px;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .product .seller-info {
+        margin-left: 0;
+    }
+    .product .seller-info .seller-contacts-icon .icon-svg--phone {
+        font-size: 18px;
+    }
+    .seller-phone {
+        line-height: 13px;
+    }
+    .seller-contact a, .seller-contact p {
+        font-size: 11px;
+    }
+    .product-statistics {
+        line-height: 12px;
+        font-size: 9px;
+        margin-right: 5px;
+    }
+    .product-statistics p {
+        margin-bottom: 0.1rem;
+    }
+    /*elan page*/
+    .product-properties label {
+        font-size: 13px;
+    }
+    .product-extras-i {
+        padding-left: 7px;
+        font-size: 14px;
+    }
+    .product-text {
+        padding: 10px 0;
+        line-height: 15px;
+        font-size: 12px;
+    }
+    .product-text p {
+        margin-bottom: 0!important;
+    }
+    .product-credit-info p, .product-deposit-info p {
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .auto-credit-section label, .auto-deposit-section label {
+        font-size: 9px!important;
+    }
+    .auto-credit-section select, .auto-credit-section input[type='number'],
+    .auto-credit-section input[type='text'], .auto-deposit-section select,
+    .auto-deposit-section input[type='number'], .auto-deposit-section input[type='text'] {
+        height: 22px!important;
+        line-height: 22px!important;
+        padding: 0 2px!important;
+        font-size: 9px;
+        text-align: center;
+    }
+/*    autosalon inner*/
+    .shop-mini-header .shop--logo {
+        width: 30%;
+        height: 120px;
+    }
+/*    search page*/
+    .search-product #q_currency {
+        left: -100px;
+    }
+    .new-product .auto_extras>span, .search-product .auto_extras>span {
+        width: 50%;
+    }
+}
+@media (max-width: 475px) {
+    .header .nav {
+        height: 40px;
+    }
+    .navbar {
+        padding: .25rem .4rem;
+    }
+    .hamburger-menu {
+        width: 25px;
+        height: 25px;
+    }
+    .header-new-btn span:last-child {
+        font-size: 15px;
+    }
+    .header-new-btn .new-btn-add-icon {
+        width: 30px;
+        height: 30px;
+    }
+    .header-new-btn .new-btn-add-icon span {
+        line-height: 30px;
+        font-size: 20px !important;
+    }
+    /*menu hamburger*/
+    .nav-menu {
+        width: 300px;
+        padding: 15% 0 10% 0;
+    }
+    .menu-close-icon {
+        width: 25px;
+        height: 25px;
+    }
+    .upsec i {
+        font-size: 18px;
+    }
+    ul.lang li a {
+        font-size: 15px;
+    }
+    .header-bar-i {
+        margin: 0;
+        padding: 10px 30px;
+        font-size: 15px;
+    }
+    .header-bar-i--login, .header-bar-i--bookmarks {
+        display: flex;
+        align-items: center;
+    }
+    .header-bar-i i {
+        margin-right: 10px;
+        font-size: 18px;
+    }
+    .nav-item {
+        padding: 10px 30px;
+    }
+    .nav-item .nav-list {
+        margin-bottom: 5px;
+    }
+    .nav-item .nav-list .nav-link {
+        font-size: 16px;
+        letter-spacing: .6px;
+    }
+    ul.nav-sm-list .nav-sm-item a {
+        margin-right: 10px;
+        font-size: 20px;
+    }
+    .header-bar-social-media a {
+        font-size: 14px;
+    }
+    .copywrt {
+        color: #fff;
+        font-size: 13px;
+        padding: 10px 30px;
+    }
+    /*autosalons and company page*/
+    .shops-i--logo img {
+        padding: 10px;
+    }
+    .shops-i--info {
+        width: 70%;
+        padding: 10px;
+    }
+    .shops-i {
+        height: 150px;
+    }
+    .shops-i--contact {
+        font-size: 13px;
+        margin: 5px 0;
+    }
+    .shops-i--ads-count {
+        top: 5px;
+    }
+    /*autosalon inner*/
+    .shop-mini-header .shop-header-left .shop-header-table {
+        height: 100px;
+        padding: 20px 20px 0;
+    }
+    .shop-mini-header .shop--title {
+        font-size: 20px;
+    }
+    /*result page for create elan*/
+    .limits-result-container {
+        width: 100%;
+    }
+    .limits--num, .limits--pin {
+        width: 40%
+    }
+    .limits-acount--text {
+        font-size: 12px;
+    }
+    .result-i--button {
+        font-size: 14px;
+    }
+}
+@media (max-width: 467px) {
+    .left-content-site-link {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .left-content-site-info {
+        font-size: 12px;
+    }
+    .container {
+        padding-left: 1% !important;
+        padding-right: 1% !important;
+    }
+    .footer {
+        padding: 20px 0;
+    }
+    .products-img {
+        height: 140px;
+    }
+
+    .mfp-container {
+        width: 380px;
+    }
+}
+@media (max-width: 450px) {
+    .left-content-site-link {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .left-content-site-info {
+        font-size: 12px;
+    }
+    /*products responisve*/
+    .row.grid {
+        grid-gap: .5rem;
+    }
+    .products-content {
+        padding-top: 30px;
+    }
+    .products-i:nth-child(1), .products-i:nth-child(2) {
+        margin-bottom: 25px;
+    }
+    .products-content::before {
+        margin-top: -30px;
+        height: calc( 50% - 22px );
+    }
+    .products-content::after {
+        height: calc( 50% - 18px );
+    }
+    /* page ul title*/
+    .breadcrumbs-i {
+        font-size: 13px;
+        margin-right: 20px;
+    }
+    .breadcrumbs-i::before, .breadcrumbs-i::after {
+        right: -13px;
+        width: 5px;
+        height: 1px;
+    }
+    .breadcrumbs-i::before {
+        top: -2px;
+    }
+    .breadcrumbs-i::after {
+        top: 4px;
+    }
+    .report_report_reason span.radio .collection_radio_buttons {
+        font-size: 13px;
+    }
+    /*reveal contents*/
+    .reveal-modal--terminal-promotion .reveal-modal-popup {
+        width: 300px;
+        padding: 10px 15px;
+    }
+    .reveal-modal.reveal-modal_service .reveal-modal-popup {
+        width: 300px;
+    }
+    .reveal-modal--content {
+        padding: 7px;
+        font-size: 10px;
+    }
+    .az-payments-type {
+        padding-bottom: 5px;
+    }
+    .reveal-modal button {
+        height: 28px;
+        line-height: 28px;
+        font-size: 12px;
+    }
+    .terminal-promotion p {
+        font-size: 10px;
+        line-height: 1;
+        letter-spacing: .5px;
+    }
+    .terminal-promotion__title {
+        margin-bottom: 8px;
+        font-size: 14px;
+        padding-right: 15px;
+    }
+    .terminal-promotion__go-to-terminal {
+        margin-bottom: 5px;
+    }
+    .terminal-promotion__product-id {
+        width: 120px;
+        height: 35px;
+        font-size: 14px;
+    }
+    .terminal-promotion__product-id-hint {
+        font-size: 8px;
+        margin-bottom: 3px;
+    }
+    .az-payments-form label {
+        margin-left: 2px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 430px) {
+    .left-content-site-link {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .left-content-site-info {
+        font-size: 11px;
+    }
+    /*elan page */
+    .product-photos {
+        width: 100%;
+    }
+    .product-photos-large {
+        height: 250px;
+    }
+    .auto-credit-section label, .auto-deposit-section label {
+        font-size: 8px!important;
+    }
+    .auto-credit-section select, .auto-credit-section input[type='number'], .auto-credit-section input[type='text'], .auto-deposit-section select, .auto-deposit-section input[type='number'], .auto-deposit-section input[type='text'] {
+        height: 20px!important;
+        line-height: 20px!important;
+        font-size: 8px;
+    }
+    .report_report_reason span.radio {
+        width: 50%;
+    }
+    .report_report_reason span.radio .collection_radio_buttons {
+        font-size: 14px;
+        padding-left: 25px
+    }
+/*    autosalon-inner page*/
+    .shop-mini-header .shop--logo {
+        width: 30%;
+        height: 110px;
+    }
+    .shop-mini-header .shop-header-left .shop-header-table {
+        height: 100px;
+        padding: 10px 10px 0;
+    }
+    .shop-mini-header .shop--title {
+        font-size: 18px;
+    }
+    .shop-mini-header .shop--views {
+        font-size: 10px;
+    }
+    .shop-mini-header .shop--views+.shop--description {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+/*    create elan page*/
+    .limits {
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .limits--title {
+        margin-bottom: 5px;
+        font-size: 16px;
+    }
+    .limits--rules {
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+    .limits-phone--title {
+        font-size: 12px;
+    }
+    .new-product .limits--phone-number[type="tel"], .new-auto .limits--phone-number[type="tel"] {
+        height: 30px;
+        font-size: 12px;
+        padding: 5px;
+        border-radius: 10px;
+    }
+    .new-product .limits--phone-number[type="tel"] {
+        width: 200px;
+    }
+    .limits--phone-error {
+        width: 200px;
+        font-size: 10px;
+    }
+    .limits--button {
+        width: 200px;
+        border-radius: 10px;
+        padding: 0;
+        font-size: 13px;
+    }
+    .form-title, .search-product--title, .new-product .auto_extras .control-label, .search-product .auto_extras .control-label, .new-product--title {
+        font-size: 16px;
+    }
+    .pond .control-label {
+        font-size: 16px !important;
+    }
+    .new-product--notice, .search-product--notice {
+        margin: 10px 0;
+        line-height: 20px;
+        font-size: 12px;
+    }
+    .pond-descr .rule_list {
+        height: 80px;
+    }
+    .pond-descr {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .pond-img-card, .pond-new-img-button {
+        width: 31%;
+        height: 100px;
+    }
+}
+@media (max-width: 414px) {
+    .left-content-site-link {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .left-content-site-info {
+        font-size: 12px;
+    }
+    .header-main-bar-left {
+        padding-left: 5px!important;
+    }
+    .header-main-bar-right {
+        height: 95px;
+        padding-left: 5px!important;
+    }
+    .header-main-bar-right img {
+        padding: 10px;
+    }
+    .navbar {
+        padding: .35rem .55rem;
+    }
+    .header .nav {
+        height: 40px;
+    }
+    .section-subtitle_name, .section-title_more {
+        font-size: 13px;
+    }
+    /*products section*/
+    .section-title_name {
+        font-size: 15px;
+    }
+    .products-img {
+        height: 140px;
+    }
+    .products-description {
+        padding: 10px 8px;
+        max-height: 90px;
+    }
+    .products-name {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .products-paid .premium-img, .products-paid .vip-img {
+        width: 14px;
+    }
+    .product-price {
+        font-size: 14px;
+        line-height: 27px;
+        padding: 0 15px;
+        border-radius: 0 2px 0 0;
+    }
+    .credit-item, .barter-item {
+        width: 24px;
+        height: 24px;
+        line-height: 24px;
+        font-size: 10px;
+    }
+    .salon-text, .deposit-text, .taxi-text {
+        font-size: 12px;
+    }
+    .products-info {
+        transform: translate(-38%, 80%) rotate(-45deg);
+    }
+    .products-attributes p.products-attributes-i {
+        font-size: 12px;
+    }
+    .products-bottom {
+        font-size: 10px;
+    }
+    /*pagination*/
+    .page-link {
+        padding: .3rem .7rem;
+        line-height: 1.25;
+        font-size: 14px;
+    }
+    /*footer*/
+    .footer {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .footer-info {
+        font-size: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .footer-info p {
+        width: 48%;
+    }
+    .footer-text p {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .footer-text a {
+        font-size: 12px;
+    }
+    /*elan page*/
+    .product-actions-i {
+        padding: 3px;
+        font-size: 9px;
+        line-height: 12px;
+    }
+    .product-actions-i i {
+        margin-right: 2px;
+        font-size: 11px;
+    }
+    /*SEARCH page*/
+    .search-product #q_currency {
+        left: -80px;
+    }
+    .search-product .auto_barter, .search-product .auto_loan,
+    #auto_credit_process, #auto_deposit_process, .new-product .auto_barter{
+        margin-left: 0;
+    }
+}
+@media (max-width: 375px) {
+    .header-main-bar-right img {
+        padding: 10px 5px;
+    }
+    /*menu hamburger*/
+    .nav-menu {
+        width: 250px;
+        padding: 15% 0 10% 0;
+    }
+    .menu-close-icon {
+        width: 20px;
+        height: 20px;
+    }
+    .upsec i {
+        font-size: 16px;
+    }
+    ul.lang li a {
+        font-size: 13px;
+    }
+    .header-bar-i {
+        margin: 0;
+        padding: 7px 20px;
+        font-size: 13px;
+    }
+    .header-bar-i--login, .header-bar-i--bookmarks {
+        display: flex;
+        align-items: center;
+    }
+    .header-bar-i i {
+        margin-right: 7px;
+        font-size: 16px;
+    }
+    .nav-item {
+        padding: 10px 20px;
+    }
+    .nav-item .nav-list {
+        margin-bottom: 5px;
+    }
+    .nav-item .nav-list .nav-link {
+        font-size: 13px;
+        letter-spacing: .5px;
+    }
+    ul.nav-sm-list .nav-sm-item a {
+        margin-right: 7px;
+        font-size: 17px;
+    }
+    .header-bar-social-media a {
+        font-size: 12px;
+    }
+    .copywrt {
+        color: #fff;
+        font-size: 11px;
+        padding: 7px 20px;
+    }
+    /*autosalons and company page*/
+    .shops-i--logo img {
+        padding: 5px;
+    }
+    .shops-i--info {
+        padding: 5px;
+    }
+    .shops-i {
+        height: 140px;
+    }
+    .shops-i--title {
+        font-size: 16px;
+    }
+    .shops-i--description {
+        font-size: 12px;
+    }
+    .shops-i--contact-content i {
+        font-size: 17px;
+    }
+    .shops-i--contact {
+        font-size: 12px;
+        margin: 5px 0;
+    }
+    .shops-i--ads-count {
+        font-size: 11px;
+        top: 5px;
+        right: 0;
+    }
+    .auto-credit-section label, .auto-deposit-section label {
+        font-size: 7px!important;
+    }
+    .auto-credit-section select, .auto-credit-section input[type='number'], .auto-credit-section input[type='text'], .auto-deposit-section select, .auto-deposit-section input[type='number'], .auto-deposit-section input[type='text'] {
+        height: 20px!important;
+        line-height: 20px!important;
+        font-size: 7px;
+    }
+/*    elan page*/
+    .product-credit-title, .product-deposit-title {
+        font-size: 12px;
+        letter-spacing: .5px;
+    }
+    .product-credit-box, .product-deposit-box {
+        height: 15px;
+        font-size: 9px;
+        border-radius: 1px;
+        margin-bottom: 2px;
+    }
+    .product-credit-box i, .product-deposit-box i {
+        font-size: 10px;
+    }
+    .report_report_reason span.radio .collection_radio_buttons {
+        font-size: 13px;
+        padding-left: 25px
+    }
+    /*autosalon-inner page*/
+    .shops-cover-left {
+        font-size: 14px;
+    }
+    .shop-page-head:before {
+        bottom: 35px;
+    }
+    .shop-mini-header .shop--logo {
+        width: 30%;
+        height: 90px;
+    }
+    .shop-mini-header .shop-header-left .shop-header-table {
+        height: 100px;
+        padding: 10px 10px 0;
+    }
+    .shop-mini-header .shop--title {
+        font-size: 18px;
+    }
+    .shop-mini-header .shop--views {
+        font-size: 10px;
+    }
+    .shop-mini-header .shop--views+.shop--description {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+    /*search page*/
+    .new-product-i, .search-product-i {
+        margin-bottom: 0;
+        font-size: 0;
+    }
+/*    create elan page*/
+    .choose-type--title {
+        font-size: 16px;
+        margin-bottom: 20px;
+        padding: 0 20px 0 0;
+    }
+    .choose-type-i {
+        height: 220px;
+        border-radius: 4px;
+    }
+    .choose-type-free .choose-type-i--profits {
+        line-height: 1;
+        font-size: 13px;
+        padding: 7px;
+    }
+    .choose-type-i--profits {
+        width: 150px;
+        height: 60px;
+        font-size: 14px;
+    }
+    .choose-type-vip .choose-type-i--description {
+        width: 240px;
+    }
+    .choose-type-i--description-title {
+        font-size: 20px;
+    }
+    .choose-type-i--description-text {
+        font-size: 12px;
+        line-height: 1.2;
+    }
+    .choose-type-i--button {
+        font-size: 12px;
+        width: 150px;
+        padding: 5px;
+        height: 32px;
+    }
+    .choose-type-vip .choose-type-i--profits {
+        font-size: 14px;
+    }
+    .choose-type-vip .choose-type-i--profits strong:first-child {
+        margin-left: 10px;
+    }
+    .choose-type-vip .choose-type-i--profits strong span:first-of-type {
+        font-size: 26px;
+        margin-bottom: 5px;
+    }
+    .choose-type-vip .choose-type-i--profits strong span {
+        font-size: 16px;
+    }
+    .mfp-container {
+        width: 300px;
+    }
+}
+@media (max-width: 373px) {
+    /*elan page*/
+    .product-photos-large {
+        height: 230px;
+    }
+    .product-name {
+        font-size: 14px;
+        padding: 4px;
+    }
+    .product-name-row, .product-services, .product-header {
+        padding: 4px;
+    }
+    .product .services-label {
+        font-size: 10px;
+    }
+    .product .services-i {
+        line-height: 15px;
+        margin-right: 2px;
+        font-size: 7px;
+        padding: 0 3px 0 10px;
+    }
+    .product .services-i_bump::before {
+        width: .75em;
+        height: .75em;
+        left: 2.5px;
+        margin-top: -3px;
+    }
+    .product .services-i_featured::before {
+        margin-top: -6px;
+    }
+    .product .services-i_vip::before {
+        margin-top: -3px;
+        left: 2px;
+    }
+    .product .services-i-price {
+        top: -5px;
+        right: -2px;
+        padding: 0 1px;
+        line-height: 8px;
+        font-size: 4px;
+    }
+    .product-header {
+        margin-bottom: 5px;
+    }
+    .product-header .product-price {
+        padding: 0 3px;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .product-header .product-price span {
+        font-size: 14px;
+    }
+    .product .seller-info .seller-contacts-icon .icon-svg--phone {
+        font-size: 15px;
+    }
+    .seller-phone {
+        line-height: 13px;
+    }
+    .seller-contact a, .seller-contact p {
+        font-size: 10px;
+    }
+    .product-statistics {
+        line-height: 10px;
+        font-size: 8px;
+        margin-right: 4px;
+    }
+    .product-statistics p {
+        margin-bottom: 0.1rem;
+    }
+    .product-properties label, .product-properties-value {
+        font-size: 11px;
+    }
+    .product-extras-i {
+        padding-left: 5px;
+        font-size: 13px;
+    }
+    .product-text {
+        padding: 7px 0;
+        line-height: 13px;
+        font-size: 10px;
+    }
+    .product-credit-info p, .product-deposit-info p {
+        font-size: 9px;
+        margin-bottom: 0;
+    }
+    .auto-credit-section, .auto-deposit-section {
+        border-radius: 6px;
+    }
+    .product-credit-info, .product-deposit-info {
+        margin-bottom: 7px;
+    }
+    .auto-credit-section label, .auto-deposit-section label {
+        font-size: 6px!important;
+    }
+    .auto-credit-section select, .auto-credit-section input[type='number'], .auto-credit-section input[type='text'], .auto-deposit-section select, .auto-deposit-section input[type='number'], .auto-deposit-section input[type='text'] {
+        height: 15px!important;
+        line-height: 15px!important;
+        font-size: 7px;
+    }
+    .product-credit-block, .product-deposit-block {
+        padding: 3px;
+    }
+    .product-credit-title, .product-deposit-title {
+        font-size: 10px;
+        letter-spacing: .3px;
+    }
+    .product-credit-box, .product-deposit-box {
+        height: 12px;
+        font-size: 8px;
+    }
+    .product-credit-box i, .product-deposit-box i {
+        font-size: 9px;
+    }
+    .product-actions-i--bookmarking, .js-product-report {
+        margin-bottom: 0;
+    }
+    .product-actions-i {
+        font-size: 8px;
+        line-height: 10px;
+    }
+    .product-actions-i i {
+        font-size: 9px;
+    }
+    .report_report_reason span.radio {
+        width: 100%;
+    }
+    /*search page*/
+    .new-product label:not(.pond-new-img), .search-product label:not(.pond-new-img) {
+        font-size: 11px;
+    }
+    .new-product input[type='email'], .new-product input[type='number'],
+    .new-product input[type='text'], .new-product input[type='password'],
+    .new-product select, .new-product textarea, .search-product input[type='email'],
+    .search-product input[type='number'], .search-product input[type='text'],
+    .search-product input[type='password'], .search-product select, .search-product textarea {
+        font-size: 11px;
+        height: 27px;
+        line-height: 27px;
+        border-radius: 5px;
+    }
+    .form-title, .search-product--title {
+        margin-bottom: 10px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .pond-img-card, .pond-new-img-button {
+        height: 75px;
+    }
+    .new-product .photo-rules li {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .new-product-alert, .search-product-alert, .edit-auto-alert, .new_search_alert-alert, .session-login-form-alert, .user-password-reset-alert, .user-password-set-alert {
+        font-size: 11px;
+    }
+    .new-product--notice ul, .search-product--notice ul {
+        margin-left: 10px;
+    }
+    .new-product--notice, .search-product--notice {
+        margin: 5px 0;
+        line-height: 15px;
+        font-size: 11px;
+    }
+    /*result page for create elan*/
+    .limits--num, .limits--pin {
+        width: 45%
+    }
+    .limits-result--success {
+        padding: 10px 0 20px 0;
+        font-size: 16px;
+    }
+    .limits--description {
+        font-size: 14px;
+    }
+    .limits-acount--text {
+        font-size: 12px;
+    }
+    .result--button-container {
+        margin: 10px;
+    }
+    .result-i--button {
+        font-size: 14px;
+    }
+}
+@media (max-width: 350px) {
+    .left-content-site-link {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .left-content-site-info {
+        font-size: 10px;
+    }
+    .header-main-bar-right img {
+        padding: 10px 0;
+    }
+    .header .nav {
+        height: 40px;
+    }
+    .navbar {
+        padding: .25rem .35rem;
+    }
+    .hamburger-menu {
+        width: 25px;
+        height: 22px;
+    }
+    .line {
+        height: 2px;
+    }
+    .header-new-btn .new-btn-add-icon {
+        width: 27px;
+        height: 27px;
+    }
+    .header-new-btn .new-btn-add-icon span {
+        line-height: 27px;
+        font-size: 15px !important;
+        padding-left: 0!important;
+    }
+    .header-new-btn span:last-child {
+        padding-left: 10px;
+    }
+    /*filter*/
+    .homepage-mini-filter .input.q_make, .homepage-mini-filter .input.q_model {
+        margin-bottom: 2px;
+    }
+    .homepage-mini-filter .input.q_make select, .homepage-mini-filter .input.q_model select {
+        font-size: 12px;
+        line-height: 34px !important;
+        height: 34px !important;
+    }
+    .homepage-mini-filter .btn-search, .homepage-mini-filter .input.q_price input, .homepage-mini-filter .input.q_price select {
+        line-height: 34px !important;
+        height: 34px !important;
+        font-size: 12px;
+    }
+    .homepage-mini-filter .btn-full-search i {
+        margin-right: 4px;
+        font-size: 13px;
+    }
+    .homepage-mini-filter .btn-full-search {
+        font-size: 12px;
+    }
+    .section-subtitle_name, .section-title_more {
+        font-size: 12px;
+    }
+    .section-title_more {
+        margin-left: 4px;
+    }
+    .section-title_name {
+        font-size: 14px;
+    }
+    /*products*/
+    .products, .anounce-container .products, .autosalon-anounce-container .products,
+    .autosalon-product .products {
+        padding-left: 7%;
+        padding-right: 7%;
+    }
+    .row.grid {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 1rem;
+    }
+    .products-i {
+        margin-bottom: 0!important;
+    }
+    .products-content::before {
+        margin-top: -30px;
+        height: calc( 50% - 20px );
+    }
+    .products-content::after {
+        height: calc( 50% - 25px );
+    }
+    .products-img {
+        height: 160px;
+    }
+    /*autosalon-inner page*/
+    .shops-top-content-img {
+        padding: 0 5%;
+    }
+    span.salon-content-img {
+        height: 120px;
+        padding: 10px 20px;
+    }
+    .shops-cover-left {
+        font-size: 12px;
+    }
+    .shop-mini-header .shop-header-left .shop-header-table {
+        height: 90px;
+        padding: 5px 5px 0;
+    }
+    .shop-mini-header .shop--title {
+        font-size: 16px;
+    }
+    .shop-mini-header .shop--title {
+        font-size: 14px;
+    }
+    .shop-mini-header .shop--views+.shop--description {
+        font-size: 11px;
+    }
+    .shop-mini-header .shop-header-right .shop-header-table {
+        flex-wrap: wrap;
+    }
+    .shop-mini-header .shop-header-cell_description {
+        height: 150px;
+        width: 100%;
+        padding-right: 0;
+        border: none;
+    }
+    .shop--logo, .shop-header-text {
+        height: auto;
+        margin-bottom: 7px;
+    }
+    .shop-mini-header .shop-header-cell_feedback {
+        padding-left: 0;
+        width: 100%;
+        display: flex;
+        margin-top: 10px;
+    }
+    .shop-mini-header .shop-phones {
+        width: 50%;
+    }
+/*    search page*/
+    .search-product #q_currency {
+        left: -65px;
+    }
+    .mfp-container {
+        width: 300px;
+    }
+}
+@media (max-width: 320px) {
+    .shops-i--title {
+        font-size: 15px;
+    }
+    .shops-i--description {
+        font-size: 11px;
+    }
+    .shops-i--contact-content i {
+        font-size: 15px;
+    }
+    .shops-i--contact {
+        font-size: 10.5px;
+        margin: 5px 0 0 0;
+    }
+    .shops-i--ads-count {
+        font-size: 9px;
+    }
+    /*search page*/
+    .form-title, .search-product--title {
+        font-size: 16px;
+    }
+    .new-product label:not(.pond-new-img), .search-product label:not(.pond-new-img) {
+        font-size: 10px;
+    }
+    .new-product input[type='email'], .new-product input[type='number'],
+    .new-product input[type='text'], .new-product input[type='password'],
+    .new-product select, .new-product textarea, .search-product input[type='email'],
+    .search-product input[type='number'], .search-product input[type='text'],
+    .search-product input[type='password'], .search-product select, .search-product textarea {
+        font-size: 10px;
+        height: 27px;
+        line-height: 27px;
+        border-radius: 5px;
+    }
+    /*result page for create elan*/
+    .limits--num, .limits--pin {
+        width: 47%
+    }
+    .limits-result--success {
+        padding: 10px 0 20px 0;
+        font-size: 16px;
+    }
+    .limits--description {
+        font-size: 12px;
+    }
+    .limits-acount--text {
+        font-size: 10px;
+    }
+}
